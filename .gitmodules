@@ -1,3 +1,6 @@
 [submodule "python_call_cpp/pybind11/cmake_example"]
 	path = python_call_cpp/pybind11/cmake_example
 	url = https://github.com/pybind/cmake_example
+[submodule "data_exchange/json"]
+	path = data_exchange/json
+	url = https://github.com/nlohmann/json
