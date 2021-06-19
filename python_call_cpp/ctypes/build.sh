@@ -1,0 +1,1 @@
+g++ add.cpp -fPIC -shared -o libadd.so
